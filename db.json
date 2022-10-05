@@ -1,16 +1,48 @@
 {
-  "posts":[
+  "events": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "React Renderaction",
+      "image": "https://pbs.twimg.com/media/FcP3do8agAATZiZ.jpg",
+      "tickets": 0,
+      "venue": "I Hub , Kilimani",
+      "date": "2022-10-20",
+      "time": "10:00",
+      "description": "This is a react event where we will be discussing react and how to use it we will have many talks from the ag",
+      "speakers": "Steve Kibuika , Paul Chesa ,Anthony Sande , Ben Wesonga",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "Droidcon",
+      "image": "http://res.cloudinary.com/dakiak4mc/image/upload/v1664603061/bj1qhlomnlob0xyr4nsp.png",
+      "tickets": 0,
+      "description": "this is an android meeting ",
+      "date": "2022-10-28",
+      "venue": "ihub",
+      "time": "10:00 am",
+      "speakers": "john mark , stacy nyambura",
+      "id": 2
+    },
+    {
+      "name": "josh event",
+      "image": "http://res.cloudinary.com/dakiak4mc/image/upload/v1664685843/zklsdkvhfziy5pc2hmya.jpg",
+      "tickets": 14,
+      "description": "Bash ya josh",
+      "date": "2022-10-26",
+      "venue": "juja roof",
+      "time": "10:00 am",
+      "speakers": "joshua",
+      "id": 3
+    },
+    {
+      "name": "event 2",
+      "image": "http://res.cloudinary.com/dakiak4mc/image/upload/v1664871634/n16mumwnpc66vkvjoqsv.png",
+      "tickets": 3,
+      "description": "goat event",
+      "date": "2022-09-28",
+      "venue": "juja",
+      "time": "10:00 am",
+      "speakers": "kamawe",
+      "id": 4
     }
   ]
 }
